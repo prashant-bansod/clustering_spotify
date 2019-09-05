@@ -12,7 +12,7 @@ search year:2000
 search year:2001
 artist from different genres
 
-## 1.2 Choose algorithms
+## 1.2 Algorithms
 I used three different type of clustering:
 - K-Means clustering
 - Agglomerative clustering
